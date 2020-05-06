@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8977244-8fec-417f-86f5-d1ef72fe38a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1adbsPYFvXcqZRSc1EQV3CBcYyZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.id" value="HTML Table" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="shop@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="shop@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@24afc16b" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8977244-8fec-417f-86f5-d1ef72fe38a4" name="Default Changelist" comment="" />
+      <created>1587068623731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587068623731</updated>
+      <workItem from="1587068625434" duration="2626000" />
+      <workItem from="1587117330057" duration="2802000" />
+      <workItem from="1587137931633" duration="1387000" />
+      <workItem from="1587168199395" duration="7547000" />
+      <workItem from="1587217816824" duration="6367000" />
+      <workItem from="1587234661419" duration="2032000" />
+      <workItem from="1587237758172" duration="16153000" />
+      <workItem from="1587291982987" duration="8771000" />
+      <workItem from="1587317711417" duration="27922000" />
+      <workItem from="1587380272197" duration="634000" />
+      <workItem from="1587473255586" duration="13000" />
+      <workItem from="1587557823734" duration="5391000" />
+      <workItem from="1587605570559" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="684" key="#Notifications" timestamp="1587237825128">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1587237825128" />
+    <state x="278" y="59" width="800" height="684" key="#SQL_Resolution_Scopes" timestamp="1587139244667">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#SQL_Resolution_Scopes/0.27.1366.741@0.27.1366.741" timestamp="1587139244667" />
+    <state x="278" y="59" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587139317566">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1587139317566" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1587320876485">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1587320876485" />
+    <state width="903" height="138" key="GridCell.Tab.0.bottom" timestamp="1587340846547">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="138" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1587340846547" />
+    <state width="903" height="138" key="GridCell.Tab.0.center" timestamp="1587340846546">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="138" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1587340846546" />
+    <state width="903" height="138" key="GridCell.Tab.0.left" timestamp="1587340846546">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="138" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1587340846546" />
+    <state width="903" height="138" key="GridCell.Tab.0.right" timestamp="1587340846547">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="138" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1587340846547" />
+    <state x="438" y="195" width="575" height="412" key="NewPhpClassDialog" timestamp="1587341051327">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="438" y="195" width="575" height="412" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1587341051327" />
+    <state x="478" y="319" width="399" height="164" key="NewPhpFileDialog" timestamp="1587341380424">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="478" y="319" width="399" height="164" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1587341380424" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1587237701510">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1587237701510" />
+    <state x="520" y="27" width="315" height="741" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1587139400948">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="520" y="27" width="315" height="741" key="com.intellij.database.view.ui.DbObjectDialog/0.27.1366.741@0.27.1366.741" timestamp="1587139400948" />
+    <state x="337" y="225" width="691" height="329" key="com.intellij.ide.util.TipDialog" timestamp="1587605570105">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="337" y="225" width="691" height="329" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1587605570105" />
+    <state x="427" y="37" width="501" height="728" key="refactoring.ChangeSignatureDialog" timestamp="1587559113536">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="427" y="37" width="501" height="728" key="refactoring.ChangeSignatureDialog/0.27.1366.741@0.27.1366.741" timestamp="1587559113536" />
+    <state x="453" y="205" key="save.file.as.template.dialog" timestamp="1587294179764">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="453" y="205" key="save.file.as.template.dialog/0.27.1366.741@0.27.1366.741" timestamp="1587294179764" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587565682443">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1587565682443" />
+  </component>
+</project>
